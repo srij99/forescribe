@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Flatfile",
+    "subtitle": "Project Management",
+    "rectangleColor": "#FEE4CB",
+    "image": "/cardicons/Flatfile.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "ChatGPT",
+    "subtitle": "Project Management",
+    "rectangleColor": "#10A37F",
+    "image": "/cardicons/Chatgpt.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Notion",
+    "subtitle": "Project Management",
+    "rectangleColor": "#000000",
+    "image": "/cardicons/Notion.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Linkedin",
+    "subtitle": "Project Management",
+    "rectangleColor": "#0A66C2",
+    "image": "/cardicons/Linkedin.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Canva",
+    "subtitle": "Project Management",
+    "rectangleColor": "#24BECA",
+    "image": "/cardicons/Canva.png",
+    "isReview": false,
+    "width": 60,
+    "height": 60
+  },
+  {
+    "title": "Ariana",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#242059",
+    "image": "/cardicons/review1.png",
+    "isReview": true,
+    "width": 75,
+    "height": 75
+  },
+  {
+    "title": "Kate",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#D2B7FF",
+    "image": "/cardicons/review2.png",
+    "isReview": true,
+    "width": 130,
+    "height": 130
+  },
+  {
+    "title": "Andrew",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#242059",
+    "image": "/cardicons/review3.png",
+    "isReview": true,
+    "width": 115,
+    "height": 115
+  },
+  {
+    "title": "Paul",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#595959",
+    "image": "/cardicons/review4.png",
+    "isReview": true,
+    "width": 130,
+    "height": 130
+  },
+  {
+    "title": "Jane Mary",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#FF9CA8",
+    "image": "/cardicons/review5.png",
+    "isReview": true,
+    "width": 175,
+    "height": 175
+  },
+  {
+    "title": "Name Cheap",
+    "subtitle": "Project Management",
+    "rectangleColor": "#FF5301",
+    "image": "/cardicons/Namecheap.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "QB",
+    "subtitle": "Project Management",
+    "rectangleColor": "#2CA01C",
+    "image": "/cardicons/QB.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Skype",
+    "subtitle": "Project Management",
+    "rectangleColor": "#0098E3",
+    "image": "/cardicons/Skype.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "AWS",
+    "subtitle": "Project Management",
+    "rectangleColor": "#262E3B",
+    "image": "/cardicons/Aws.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Chimp Monk",
+    "subtitle": "Project Management",
+    "rectangleColor": "#FFE002",
+    "image": "/cardicons/Mailchimp.png",
+    "isReview": false,
+    "width": 70,
+    "height": 70
+  },
+  {
+    "title": "Jake Mark",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#FF9CA8",
+    "image": "/cardicons/review6.png",
+    "isReview": true,
+    "width": 115,
+    "height": 115
+  },
+  {
+    "title": "Jake Mark",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#FF9CA8",
+    "image": "/cardicons/review6.png",
+    "isReview": true,
+    "width": 115,
+    "height": 115
+  },
+  {
+    "title": "Jake Mark",
+    "subtitle": "“We automatically resolve 25% of customer queries across desktop and mobile using Intercom bots.”",
+    "rectangleColor": "#FF9CA8",
+    "image": "/cardicons/review6.png",
+    "isReview": true,
+    "width": 115,
+    "height": 115
+  }
+]
